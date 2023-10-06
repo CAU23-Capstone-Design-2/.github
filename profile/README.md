@@ -1,9 +1,5 @@
-## ABOUT
+# ABOUT
 - 중앙대학교 캡스톤 디자인 프로젝트 ( 2023-09 ~ 2023-12 )
-
- ### Rules 🤝
-
-All Rules are [here](./Rules.md).
 
 
 
@@ -13,6 +9,11 @@ All Rules are [here](./Rules.md).
 '''
 요기다가 포스터
 '''
+
+
+## Rules 🤝
+**All Rules are [here](./Rules.md).
+
 
 ## 🐥 TEAM 
 '''
