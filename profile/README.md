@@ -12,20 +12,14 @@
 
 
 ## Rules 🤝
-###All Rules are [here](./Rules.md).
+### All Rules are [here](./Rules.md).
 
 
 ## 🐥 TEAM 
-'''
-요기다가 팀원 사진 & 역할
-'''
+![image](https://github.com/CAU23-Capstone-Design-2/.github/assets/80440429/f2ccc02f-fc95-4c2d-861b-aa3ed343ba00)
 
 
-FrontEnd : 박상현
 
-BackEnd : 박지우
-
-AI : 강명석
 
 
 ## 🍀 Service 
