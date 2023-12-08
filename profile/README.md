@@ -2,22 +2,23 @@
 - 중앙대학교 캡스톤 디자인 프로젝트 ( 2023-09 ~ 2023-12 )
 
 
-
 ## 🎙 Vostom 🎙
 나에게 어울리는 노래를 추천받고, 나의 목소리로 불러진 노래를 들어보는 서비스
 
-'''
-요기다가 포스터
-'''
+![title](https://github.com/CAU23-Capstone-Design-2/.github/assets/29995267/02f11027-df65-4abe-875c-a2ce391ccd0d)
+
+
+
 
 
 ## Rules 🤝
 ### All Rules are [here](./Rules.md).
 
 
-## 🐥 TEAM 
-![image](https://github.com/CAU23-Capstone-Design-2/.github/assets/80440429/f2ccc02f-fc95-4c2d-861b-aa3ed343ba00)
 
+
+## 🐥 TEAM 
+![team](https://github.com/CAU23-Capstone-Design-2/.github/assets/29995267/fbe96f08-eab2-4fa7-b158-5d5de3bee3ba)
 
 
 
@@ -26,17 +27,24 @@
 
 나에게 가장 잘 어울리는 노래를 추천받고, 나의 목소리로 불러진 노래를 들어보세요!
 
-vostom은 오직 당신을 위한 개인 맞춤 노래 서비스입니다. 우리는 사용자에게 가장 어울리는 노래를 추천하고, 여기서 더 나아가, 그 노래를 여러분의 목소리로 들어볼 수 있습니다.
+Vostom은 오직 당신을 위한 개인 맞춤 노래 서비스입니다. 
 
-.... 더 멋지게 써줄 사람 구함
+우리는 사용자에게 가장 어울리는 노래를 추천하고, 
+
+여기서 더 나아가, 그 노래를 여러분의 목소리로 들어볼 수 있습니다.
+
+사용자의 목소리를 학습해서 AI Cover 제공 및 공유 서비스, Vostom 입니다.
+
+
 
 
 ## 🎀 App Logo 
-추가 예정
+<img src="https://github.com/CAU23-Capstone-Design-2/.github/assets/29995267/3b4cbc94-473b-4b27-bde1-85c205cbfcec" width="400">
+
 
 
 ## 🐲 Architecture 
-![Component 107](https://github.com/kangmyoungseok/git_demo/assets/33647663/71e06db3-7073-44c1-a22a-a9bbd63aed25)
+![Component 125](https://github.com/CAU23-Capstone-Design-2/.github/assets/29995267/72b0c389-4704-4234-b45e-4a3c8c7fad7d)
 
 
 
